@@ -1,12 +1,5 @@
 example text 123
 second example
 zmiany
-<<<<<<< HEAD
-<<<<<<< HEAD
 zmiany nr 2 zmiany main
-=======
-zmiany nr 2 zmiany FIX
->>>>>>> 3686c59 (test.txt update3 FIX)
-=======
-zmiany nr 2 zmiany FIX
->>>>>>> 3686c59d497c7d2972a2d356482be9b71c0a990a
+
