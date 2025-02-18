@@ -2,4 +2,3 @@ example text 123
 second example
 zmiany
 zmiany nr 2 zmiany main
-
