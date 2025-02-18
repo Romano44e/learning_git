@@ -3,3 +3,5 @@ second example
 zmiany
 zmiany nr 2 zmiany main
 1
+2
+3
